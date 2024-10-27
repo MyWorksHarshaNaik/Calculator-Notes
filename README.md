@@ -39,4 +39,4 @@ or
 python3 main.py
 
 <-----Overview----->
-![Alt text](images/example.png)
+![Alt text](notes.png)
