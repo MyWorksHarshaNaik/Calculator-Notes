@@ -37,3 +37,6 @@ or
 /d/My_ML_Projs/Math-Notes/calc-be/venv/Scripts/python -m pip install Pillow pydantic google.generativeai python-dotenv
 
 python3 main.py
+
+<-----Overview----->
+![Alt text](images/example.png)
